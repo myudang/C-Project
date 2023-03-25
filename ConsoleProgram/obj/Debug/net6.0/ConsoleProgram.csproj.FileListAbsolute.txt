@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\YJH\ConsoleProgram\bin\Debug\net6.0\ConsoleProgram.exe
+C:\Users\Administrator\Desktop\YJH\ConsoleProgram\bin\Debug\net6.0\ConsoleProgram.deps.json
+C:\Users\Administrator\Desktop\YJH\ConsoleProgram\bin\Debug\net6.0\ConsoleProgram.runtimeconfig.json
+C:\Users\Administrator\Desktop\YJH\ConsoleProgram\bin\Debug\net6.0\ConsoleProgram.dll
+C:\Users\Administrator\Desktop\YJH\ConsoleProgram\bin\Debug\net6.0\ConsoleProgram.pdb
+C:\Users\Administrator\Desktop\YJH\ConsoleProgram\obj\Debug\net6.0\ConsoleProgram.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\YJH\ConsoleProgram\obj\Debug\net6.0\ConsoleProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\YJH\ConsoleProgram\obj\Debug\net6.0\ConsoleProgram.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\YJH\ConsoleProgram\obj\Debug\net6.0\ConsoleProgram.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\YJH\ConsoleProgram\obj\Debug\net6.0\ConsoleProgram.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\YJH\ConsoleProgram\obj\Debug\net6.0\ConsoleProgram.dll
+C:\Users\Administrator\Desktop\YJH\ConsoleProgram\obj\Debug\net6.0\refint\ConsoleProgram.dll
+C:\Users\Administrator\Desktop\YJH\ConsoleProgram\obj\Debug\net6.0\ConsoleProgram.pdb
+C:\Users\Administrator\Desktop\YJH\ConsoleProgram\obj\Debug\net6.0\ConsoleProgram.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\YJH\ConsoleProgram\obj\Debug\net6.0\ref\ConsoleProgram.dll
