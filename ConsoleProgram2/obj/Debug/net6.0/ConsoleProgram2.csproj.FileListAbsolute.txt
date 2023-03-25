@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram2\bin\Debug\net6.0\ConsoleProgram2.exe
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram2\bin\Debug\net6.0\ConsoleProgram2.deps.json
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram2\bin\Debug\net6.0\ConsoleProgram2.runtimeconfig.json
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram2\bin\Debug\net6.0\ConsoleProgram2.dll
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram2\bin\Debug\net6.0\ConsoleProgram2.pdb
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram2\obj\Debug\net6.0\ConsoleProgram2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram2\obj\Debug\net6.0\ConsoleProgram2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram2\obj\Debug\net6.0\ConsoleProgram2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram2\obj\Debug\net6.0\ConsoleProgram2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram2\obj\Debug\net6.0\ConsoleProgram2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram2\obj\Debug\net6.0\ConsoleProgram2.dll
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram2\obj\Debug\net6.0\refint\ConsoleProgram2.dll
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram2\obj\Debug\net6.0\ConsoleProgram2.pdb
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram2\obj\Debug\net6.0\ConsoleProgram2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram2\obj\Debug\net6.0\ref\ConsoleProgram2.dll
