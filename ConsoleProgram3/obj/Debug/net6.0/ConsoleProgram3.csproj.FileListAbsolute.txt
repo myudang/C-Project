@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram3\bin\Debug\net6.0\ConsoleProgram3.exe
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram3\bin\Debug\net6.0\ConsoleProgram3.deps.json
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram3\bin\Debug\net6.0\ConsoleProgram3.runtimeconfig.json
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram3\bin\Debug\net6.0\ConsoleProgram3.dll
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram3\bin\Debug\net6.0\ConsoleProgram3.pdb
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram3\obj\Debug\net6.0\ConsoleProgram3.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram3\obj\Debug\net6.0\ConsoleProgram3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram3\obj\Debug\net6.0\ConsoleProgram3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram3\obj\Debug\net6.0\ConsoleProgram3.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram3\obj\Debug\net6.0\ConsoleProgram3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram3\obj\Debug\net6.0\ConsoleProgram3.dll
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram3\obj\Debug\net6.0\refint\ConsoleProgram3.dll
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram3\obj\Debug\net6.0\ConsoleProgram3.pdb
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram3\obj\Debug\net6.0\ConsoleProgram3.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\YJH\C-Project\ConsoleProgram3\obj\Debug\net6.0\ref\ConsoleProgram3.dll

@@ -178,6 +178,9 @@
 
             #endregion
 
+
+            #region 사분면 알아내기
+
             int x = 3, y = 2;
 
             if (x > 0)
@@ -228,7 +231,11 @@
                 }
             }
 
+            #endregion
+
             Console.WriteLine("----------------------------------------------------------");
+
+            #region 사분면 알아내기 2
 
             if (x > 0 && y > 0)
             {
@@ -258,6 +265,8 @@
             {
                 Console.WriteLine("원점 입니다.2");
             }
+
+            #endregion
         }
     }
 }
