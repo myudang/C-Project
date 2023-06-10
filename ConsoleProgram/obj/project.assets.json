@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\YJH\\C-Project\\ConsoleProgram\\ConsoleProgram.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\YJH\\C#\\ConsoleProgram\\ConsoleProgram.csproj",
       "projectName": "ConsoleProgram",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\YJH\\C-Project\\ConsoleProgram\\ConsoleProgram.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\YJH\\C#\\ConsoleProgram\\ConsoleProgram.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\YJH\\C-Project\\ConsoleProgram\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\YJH\\C#\\ConsoleProgram\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
